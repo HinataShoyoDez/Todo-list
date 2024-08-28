@@ -1,0 +1,15 @@
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\bin\Debug\ToDo Application.exe.config
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\bin\Debug\ToDo Application.exe
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\bin\Debug\ToDo Application.pdb
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application.csproj.AssemblyReference.cache
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\MainWindow.g.cs
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\App.g.cs
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application_MarkupCompile.cache
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application_MarkupCompile.lref
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\MainWindow.baml
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application.g.resources
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo_Application.Properties.Resources.resources
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application.csproj.GenerateResource.cache
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application.csproj.CoreCompileInputs.cache
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application.exe
+C:\Users\aliengin.sivas\source\repos\ToDo Application\ToDo Application\obj\Debug\ToDo Application.pdb
